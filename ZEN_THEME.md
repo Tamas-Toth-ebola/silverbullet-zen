@@ -1,7 +1,7 @@
 ---
-property: value
+name: Zen for SilverBullet
+tags: meta/library
 ---
-#meta
 
 
 
