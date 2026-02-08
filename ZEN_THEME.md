@@ -1,9 +1,7 @@
 ---
-name: "Library/ebola/ZEN_THEME"
+name: "Library/Themes/ZEN_THEME"
 description: "A theme for SilverBullet inspired by [Zen](https://zen-browser.app/). Design philosophy: Calm, reduced visual noise and consistency."
 tags: meta/library
-files:
-- "ebola/ZEN_THEME.md"
 share.uri: "https://github.com/Tamas-Toth-ebola/silverbullet-zen/edit/main/ZEN_THEME.md"
 share.mode: pull
 ---
