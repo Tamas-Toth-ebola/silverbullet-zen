@@ -3,7 +3,10 @@ name: "Library/Zen-theme"
 description: "A theme for SilverBullet inspired by [Zen](https://zen-browser.app/). Design philosophy: Calm, reduced visual noise and consistency."
 tags: meta/library
 files:
-- "Library/Zen-theme.md"
+- "ZEN_THEME.md"
+share.uri: "https://github.com/Tamas-Toth-ebola/silverbullet-zen/edit/main/ZEN_THEME.md"
+share.hash: 
+share.mode: pull
 ---
 
 
